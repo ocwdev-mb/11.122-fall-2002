@@ -1,13 +1,13 @@
 ---
 content_type: page
 description: This syllabus section provides the course description and information
-  on meeting times, objectives, assignments, evaluation, and required texts.
+  on meeting times, objectives, assignments, evaluation, and required texts...
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 5e91c0a2-5cf2-f5f8-1775-e067fd458db5
 ---
-
 Course Meeting Times
 --------------------
 
